@@ -1,0 +1,5 @@
+Lolita,Justin Joy,19,$2.5
+Twilight,Sophie Meyer,17,$3
+Nathiya,Hailey Jolie,1,$4
+Laikiya,George Saint,10,$2
+Mirror,Seren Matt,16,$3
